@@ -36,7 +36,7 @@
       "last 1 safari version"
     ]
   },
-  "engines": {
-    "node": "17.9.0"
+  "devDependencies": {
+    "@vercel/node": "^2.9.6"
   }
 }
